@@ -1,11 +1,11 @@
-## Link Website (Client )
-See more at this website: https://thephoner.online
+
 
 ## This is project DA1 - from GoldenBeeGroup
 
 #### Snapshort at client
 
-![client site thephoner.online](https://trannhatsang.com/wp-content/uploads/2023/04/Screenshot_78.png "thephoner.online client")
+<img width="543" height="259" alt="image" src="https://github.com/user-attachments/assets/5054a324-c9b9-4443-ba57-338057cafb95" />
+
 
 #### Snapshort at admin
 
