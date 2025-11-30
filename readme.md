@@ -13,7 +13,7 @@
 
 ## Do you want to read more about this project ?
 
->_**Take a look detail understanding about my project at: [THEPHONER.ONLINE - DOCUMENT](https://docs.google.com/document/d/1xMd_pej-JVo3TC4pe9iae346PaNzkQGO/edit?usp=sharing&ouid=113091677324325823626&rtpof=true&sd=true)**_
+>_**Take a look detail understanding about my project at: https://docs.google.com/document/d/1vH_aOEIJl6nPDojACAKpoV_BFOzrSe8dV7ZJH4WwKOQ/edit?usp=sharing
 
 #### A short overview Description
 1. At client
